@@ -1,1 +1,1 @@
-<img src='figures/profile-box.png' align="centre"/>
+<img src='figures/profile-invisible-box.png' align="centre"/>
